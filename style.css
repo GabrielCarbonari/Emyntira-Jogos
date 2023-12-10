@@ -190,6 +190,24 @@ span {
   justify-content: space-evenly;
 }
 
+#redes-sociais4 > ul > div > li > a > img {
+  display: flex;
+  width: 150px;
+  height: 150px;
+  border-radius: 10%;
+  border: 1px solid rgba(70, 70, 70, 0.9);
+}
+
+#redes-sociais4 > ul > div > li {
+  text-decoration: none;
+  list-style: none;
+}
+
+#redes-sociais4 > ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+
 #redes-sociais > ul > div > li > a > img:hover {
   border: 3px solid rgba(133, 20, 20, 0.9);
 }
@@ -199,5 +217,9 @@ span {
 }
 
 #redes-sociais3 > ul > div > li > a > img:hover {
+  border: 3px solid rgba(133, 20, 20, 0.9);
+}
+
+#redes-sociais4 > ul > div > li > a > img:hover {
   border: 3px solid rgba(133, 20, 20, 0.9);
 }
