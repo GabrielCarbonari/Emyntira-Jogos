@@ -208,6 +208,10 @@ span {
   justify-content: space-evenly;
 }
 
+.divisao4 {
+  margin-bottom: 50px;
+}
+
 #redes-sociais > ul > div > li > a > img:hover {
   border: 3px solid rgba(133, 20, 20, 0.9);
 }
